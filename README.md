@@ -1,4 +1,5 @@
-Sistema de Gestión Inmobiliaria
+SISTEMA DE GESTION INMOBILIARIA
+
 🏠 Descripción del Proyecto
 Este es un sistema de gestión de inmuebles desarrollado en Java en un entorno de consola. El objetivo principal del proyecto es aplicar y demostrar los conceptos fundamentales de la Programación Orientada a Objetos (POO): encapsulamiento, herencia y polimorfismo.
 
